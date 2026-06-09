@@ -7,9 +7,15 @@ function App() {
       <p>Secure your place successfully!</p>
 
       <div>
+<<<<<<< Updated upstream
         <button>Secure</button>
         <button>Medium</button>
         <button>Large</button>
+=======
+        <button>Home</button>
+        <button>About</button>
+        <button>Help</button>
+>>>>>>> Stashed changes
       </div>
     </div>
   );
