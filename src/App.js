@@ -7,9 +7,9 @@ function App() {
       <p>Secure your placed veera successfully!</p>
 
       <div>
-        <button>Secure</button>
-        <button>Medium</button>
-        <button>Large</button>
+        <button>Home</button>
+        <button>About</button>
+        <button>Contact</button>
       </div>
     </div>
   );
