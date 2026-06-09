@@ -7,9 +7,12 @@ function App() {
       <p>Secure your placed veera successfully!</p>
 
       <div>
+      
         <button>Home</button>
         <button>About</button>
-        <button>Contact</button>
+        <button>Help</button>
+
+ main
       </div>
     </div>
   );
